@@ -1,0 +1,95 @@
+{
+    "title": "hurley shorts",
+    "description": "hurley",
+    "referenceId": "62041026fb467afd05cef1e736539256",
+    "date_created": "1525893975",
+    "date_modified": "1526002229",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "662",
+    "product_category": "Select",
+    "id": "163856784",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "the-simpsons-movie-1080p-trailer",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "137",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "137",
+            "width": 1920,
+            "height": 800
+        },
+        "mediaDuration": "137",
+        "prettyDuration": "00:02:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/thumb-62041026fb467afd05cef1e736539256-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/media.m3u8",
+        "assetId": "163856784",
+        "assetTitle": "yo",
+        "assetTitleTextEncoded": "the-simpsons-movie-1080p-trailer",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "163856784",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 800
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 534
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 356
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 266
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 134
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": "hurley",
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

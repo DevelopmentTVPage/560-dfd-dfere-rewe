@@ -1,0 +1,21 @@
+{
+    "id": "662",
+    "first_name": "Test",
+    "last_name": "Man",
+    "data": {
+        "profilePhoto": "\/api\/canvas\/logo\/671998701-0.1531146062072.jpg",
+        "job_title": "Tester"
+    },
+    "last_login_timestamp": "1525991534",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-02 19:00:23",
+    "login_id": "1759121",
+    "user_id": "662",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Test Man",
+    "profile_picture": "\/api\/canvas\/logo\/671998701-0.1531146062072.jpg",
+    "titleTextEncoded": "test-man",
+    "title": "Test Man",
+    "videos_count": "1"
+}
